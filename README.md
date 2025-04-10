@@ -1,36 +1,30 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Modern Landing Page with Next.js 15, Shadcn, TypeScript & Tailwind v4
 
-## Getting Started
+This project was created in just 10 minutes to demonstrate how to build a modern, responsive landing page using Next.js 15, Shadcn, TypeScript, and Tailwind CSS v4. 🚀
 
-First, run the development server:
+## 🚀 Demo
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Check out the demo of the landing page here: https://orcish-landing-page.vercel.app/
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🔧 Technologies Used
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Next.js 15**: React framework for building fast, scalable web applications.
+- **Shadcn**: A modern UI library for building components quickly.
+- **TypeScript**: A superset of JavaScript for writing type-safe code.
+- **Tailwind CSS v4**: A utility-first CSS framework for custom designs without writing custom styles.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## ⚡ Features
 
-## Learn More
+- **Responsive Design**: Optimized for all screen sizes.
+- **Modern UI**: Styled with Tailwind CSS for a clean and attractive design.
+- **Fast Setup**: Built using Next.js 15 with TypeScript and Shadcn components for quick development.
 
-To learn more about Next.js, take a look at the following resources:
+## 📚 Resources
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Next.js
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- Shadcn
 
-## Deploy on Vercel
+- Tailwind CSS
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- TypeScript
